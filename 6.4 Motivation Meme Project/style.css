@@ -1,11 +1,18 @@
-html{
+body{
     background-color: black;
 }
-div{
-    height: 500px;
-    width: 700px;
+.poster{
     width: 50%;
     margin-left: 25%;
-    margin-top: 25%;
-    border: 10px solid white;
+    margin-top: 100px;
+    color: white;
+    font-family: 'Libre Baskerville', serif;
+    text-align: center;
+}
+.image{
+    border: 5px solid white;
+    width: 100%;
+}
+h1{
+    text-transform: uppercase;
 }
